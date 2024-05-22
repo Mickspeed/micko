@@ -1,0 +1,46 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+main{
+    background-color: rgb(237, 250, 184);
+}
+header h1{
+    font-family:cursive;
+    color: white;
+}
+header{
+    background-image: url(https://i.pinimg.com/originals/77/42/0d/77420df3f9e33db5b79ee25455d3340e.png);
+    background-size: 100% auto;
+    background-position: center;
+}
+header div{
+    margin: 70px;
+    color: #ffffff;
+}
+nav ul {
+    list-style-type: none;
+    padding: 0; 
+    margin: 0;
+    background-color: #070606;
+}
+nav ul li {
+    display: inline-block;
+}
+nav ul li a {
+    display: block;
+    text-align: right;
+    padding: 15px;
+    text-decoration: none;
+}
+nav ul li a:hover {
+    background-color: #444242;
+}
+
+nav ul li a {
+    display: block;
+    text-align: right;
+    text-decoration: none;
+    color: #ffffff;
+}
+
